@@ -1,6 +1,6 @@
 # wsd-shopping-list
 
-Live demo - https://wsd-shopping-list-r84m.onrender.com/
+Live demo - https://shoppinglistapp-1-a9si.onrender.com
 
 ## Contents
 
